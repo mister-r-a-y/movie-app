@@ -7,9 +7,9 @@ const Header = () => {
     <div className="container gradient-background">
           <h1 className='logo animated-logo'>FilmBucket</h1>
           <nav className="links">
-                <a href="/#" className="nav-link">Home</a>
-                <a href="/#" className="nav-link">About</a>
-                <a href="/#" className="nav-link">Contact</a>
+                <a href="/#" className="nav-link">Link</a>
+                <a href="/#" className="nav-link">Link</a>
+                <a href="/#" className="nav-link">Link</a>
           </nav>
           <div className="search-bar">
               <input type="text" placeholder="Search" />
